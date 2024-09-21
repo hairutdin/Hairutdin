@@ -1,4 +1,4 @@
-## Hey there 👋
+# Hey there 👋
 
 I’m Hairutdin, a Software Engineer passionate about backend development and solving complex problems with clean, efficient code. My expertise spans Go, Python, databases, and microservices.
 
